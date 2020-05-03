@@ -1,3 +1,6 @@
+# Names scores
+# https://projecteuler.net/problem=22
+
 f = open("P0022.txt", "r")
 a = []
 for x in f:

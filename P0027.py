@@ -1,5 +1,5 @@
-# Reciprocal cycles
-# https://projecteuler.net/problem=26
+# Quadratic primes
+# https://projecteuler.net/problem=27
 from math import sqrt
 from time import time
 

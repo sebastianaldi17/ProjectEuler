@@ -21,4 +21,4 @@ for i in range(1, 1001):
         temp *= i % 10000000000
     ans += temp
 print(ans%10000000000)
-print("Modular exponentation time:", time() - start, "Seconds")
+print("Modular exponentation time:", time() - mod_time, "Seconds")
